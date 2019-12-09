@@ -1,0 +1,11 @@
+C:\Users\adsouza\source\repos\FileReading\bin\Debug\netcoreapp2.2\FileReading.deps.json
+C:\Users\adsouza\source\repos\FileReading\bin\Debug\netcoreapp2.2\FileReading.runtimeconfig.json
+C:\Users\adsouza\source\repos\FileReading\bin\Debug\netcoreapp2.2\FileReading.runtimeconfig.dev.json
+C:\Users\adsouza\source\repos\FileReading\bin\Debug\netcoreapp2.2\FileReading.dll
+C:\Users\adsouza\source\repos\FileReading\bin\Debug\netcoreapp2.2\FileReading.pdb
+C:\Users\adsouza\source\repos\FileReading\obj\Debug\netcoreapp2.2\FileReading.csprojAssemblyReference.cache
+C:\Users\adsouza\source\repos\FileReading\obj\Debug\netcoreapp2.2\FileReading.csproj.CoreCompileInputs.cache
+C:\Users\adsouza\source\repos\FileReading\obj\Debug\netcoreapp2.2\FileReading.AssemblyInfoInputs.cache
+C:\Users\adsouza\source\repos\FileReading\obj\Debug\netcoreapp2.2\FileReading.AssemblyInfo.cs
+C:\Users\adsouza\source\repos\FileReading\obj\Debug\netcoreapp2.2\FileReading.dll
+C:\Users\adsouza\source\repos\FileReading\obj\Debug\netcoreapp2.2\FileReading.pdb
